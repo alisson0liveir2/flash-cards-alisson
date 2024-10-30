@@ -1,24 +1,24 @@
 criaCartao(
-    'Programção',
-    'O que é Python?',
-    'É uma linguagem de programação'
+    'fisica',
+    'Qual oi a primeira pessoa viajar para o espaço?',
+    'Foi o russo Yuri Gagarin'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'Paris'
+    'Qual a montanha mai alta o mundo?',
+    'Monte Everest'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'É um bloco de código que executa uma tarefa'
+    'Geografia',
+    'Onde se localia Machu Picchu?',
+    'Machu Picchu localiza-se no Peru'
 )
 
 criaCartao(
-    'Inglês',
-    'Como se diz "Oi" em inglês?',
-    'Hi / Hello'
+    'Geograia',
+    'Qual país tem o formato de uma bota?',
+    'Itália'
 )
 
