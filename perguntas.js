@@ -1,12 +1,12 @@
 criaCartao(
-    'fisica',
-    'Qual oi a primeira pessoa viajar para o espaço?',
+    'Astronomia',
+    'Qual foi a primeira pessoa a viajar para o espaço?',
     'Foi o russo Yuri Gagarin'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a montanha mai alta o mundo?',
+    'Qual a montanha mais alta do mundo?',
     'Monte Everest'
 )
 
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Geograia',
+    'Geografia',
     'Qual país tem o formato de uma bota?',
     'Itália'
 )
